@@ -1,0 +1,22 @@
+{
+  "name": "numeroparoimpar",
+  "version": "0.0.1",
+  "description": "Este es un programa para sabes si un numero par, multiplicado por 3 da un resultado par",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "author": "Rogelio Beltran",
+  "license": "ISC",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12"
+  }
+}

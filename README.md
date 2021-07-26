@@ -1,5 +1,7 @@
 # ¿Cómo correr el proyecto?
 
-## Este proyecto está desarrollado con nodejs así que se debe de tener instalado este entorno de ejecución para poder correrlo, una vez instalado solo tienes que entras ala carpeta del proyecto y escribir el sigionte comando en la termional
+## Este proyecto está desarrollado con nodejs así que se debe de tener instalado este entorno de ejecución para poder correrlo.
 
-## Comando: Node src/server.js
+## Una vez instalado solo tienes que entras a la carpeta del proyecto y escribir el siguiente comando en la terminal
+
+## Comando: node src/server.js
